@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@react-native-community/viewpager": "^5.0.11",
+    "@react-native-google-signin/google-signin": "^11.0.0",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/stack": "^6.3.20",
     "@types/react-native": "^0.73.0",
@@ -23,6 +24,7 @@
     "react-native-reanimated": "^3.6.1",
     "react-native-safe-area-context": "^4.8.2",
     "react-native-screens": "^3.29.0",
+    "react-native-twitter-signin": "^1.1.1",
     "react-native-vector-icons": "^10.0.3"
   },
   "devDependencies": {
